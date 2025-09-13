@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Welcome to Portfolio V-10"
+date:   2025-09-14 00:54:43 +0530
+categories: portfolio update
+---
+I’m kinda lazy when it comes to frontend stuff. Playing with design, CSS, all that… not really my thing.
+
+So I went looking for some static site generators, tried a few, and honestly — I just love Jekyll. Super easy to install, quick to set up, and it just works without making me think too much.
+
+Anyway, you can check out the latest updates here. Enjoy :)
+
+and this is my first post.
+---
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
