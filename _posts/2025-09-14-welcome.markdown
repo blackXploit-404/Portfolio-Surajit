@@ -11,6 +11,7 @@ So I went looking for some static site generators, tried a few, and honestly —
 Anyway, you can check out the latest updates here. Enjoy :)
 
 and this is my first post.
+
 ---
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
