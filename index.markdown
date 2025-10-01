@@ -4,3 +4,10 @@
 
 layout: home
 ---
+### Hi , i'm **Surajit** 
+**just a simple guy who loves to build , break and rebuild things securely.**
+
+![alt text](/assets/images/cool-guy.gif)
+
+### more cool posts are comming 🪼
+
